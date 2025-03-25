@@ -1,0 +1,11 @@
+flask
+transformers
+PyPDF2
+beautifulsoup4
+pdf2image
+python-docx
+pytesseract
+requests
+torch
+ollama
+pdfminer.six
