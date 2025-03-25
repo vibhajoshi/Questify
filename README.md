@@ -1,6 +1,10 @@
 
 # Questify - Smart Question Generator
 
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Flask](https://img.shields.io/badge/flask-2.3.2-lightgrey)
+![Ollama](https://img.shields.io/badge/ollama-llama3.2-orange)
+
 A smart question generator powered by Ollama and Llama3.2, designed to automatically generate relevant questions from input text or prompts.
 
 ## Features
