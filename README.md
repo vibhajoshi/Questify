@@ -27,6 +27,8 @@ A smart question generator powered by Ollama and Llama3.2, designed to automatic
    ollama serve
    python app.py
 
-   ![WhatsApp Image 2025-03-25 at 10 11 04_fac115ab](https://github.com/user-attachments/assets/61e33b9e-628c-4bbf-9175-7f35cf057bee)
+![WhatsApp Image 2025-03-25 at 10 11 04_fac115ab](https://github.com/user-attachments/assets/61e33b9e-628c-4bbf-9175-7f35cf057bee)
+
+
    
    
